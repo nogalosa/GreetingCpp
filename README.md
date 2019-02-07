@@ -1,7 +1,7 @@
 # GreetingCpp
 A small Greeting app written in C++.
 
-*Contains*
+**Contains**
 * Name input
 * Gender identification
 * Border size setting
